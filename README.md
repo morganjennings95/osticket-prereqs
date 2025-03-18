@@ -36,11 +36,11 @@ Upon logging in, select No for all privacy settings as they are not necessary fo
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/89c27cf0-a0ed-45cc-a342-93da81033fd7)
+
 <p>
 https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+  Using this hyperlink, open browser window and download file to begin OS Ticket setup
 <br />
 
 <p>
