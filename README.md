@@ -19,11 +19,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Azure Account (free or paid)
+- Create Resource Group 
+- Create Virtual Machine (be sure to match region you selected within your resourse group)
+  - System Size of 2 Virtual CPUs Recommended
+  - Confirm Windows Licensing
+- Confirm and Create VM
 
 <h2>Installation Steps</h2>
 
