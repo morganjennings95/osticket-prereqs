@@ -25,6 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - System Size of 2 Virtual CPUs Recommended
   - Confirm Windows Licensing
 - Confirm and Create VM
+- Locate VM Public IP Address and Log in Via Remote Desktop
 
 <h2>Installation Steps</h2>
 
